@@ -1,0 +1,30 @@
+/*css Reset*/
+body{
+  font-size: 14px;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+a{
+  text-decoration: none;
+
+}
+img,input{
+  border: none;
+}
+li{
+  list-style: none;
+}
+/*公共样式*/
+a{
+  color: #3377aa;
+
+}
+a:hover{
+  background-color: #3377aa;
+  color: #fff;
+}
+.clearFix{
+  clear: both;
+}
